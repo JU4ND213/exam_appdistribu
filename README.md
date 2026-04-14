@@ -1,4 +1,4 @@
-2 Importación de la imagen (equipo destino)
+Importación de la imagen (equipo destino)
 Una vez ubicado el archivo .tar en el equipo destino, se procede a importarlo con:
 docker load -i nombre_imagen.tar
 Este proceso reconstruye la imagen en el sistema local.
